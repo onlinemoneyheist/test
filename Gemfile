@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby "2.5.3"
 gem "jekyll", "~> 3.8.5"
 gem "html-proofer", "~> 3.9.1"
-gem "json", "~> 2.1.0"
+gem "json", "~> 2.3.0"
 gem "nokogiri", ">= 1.8.5"
 gem "rack", ">= 2.0.6"
 
