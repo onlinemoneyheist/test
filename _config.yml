@@ -38,16 +38,16 @@ cards:
   group_by:
     name: decade      # field in yaml to group by
     caption: decades  # name of category (ex: industries)
-    fa-icon: fa-tasks
+    fa-icon: tasks
     fa-style: far        # valid: fas (solid), far (regular), fal (light), fab (brand)
   meta:               # use this section to display card info, in addition to 'group_by'
     - name: year
       caption: year
-      fa-icon: fa-money
+      fa-icon: money
       fa-style: far
     - name: url
       caption: www
-      fa-icon: fa-link
+      fa-icon: link
       fa-style: fas
 
 
